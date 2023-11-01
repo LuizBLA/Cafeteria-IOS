@@ -1,0 +1,103 @@
+@charset "UTF-8";
+@font-face {
+    font-family: braba;
+    src: url(Handmade.otf);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    background-color: antiquewhite;
+}
+header {
+    margin-left: 100px;
+    margin-top: 5%;
+    font-size:60px;
+    font-family: cursive;
+    background-color: rgb(209, 82, 82);
+}
+
+img.alt{
+    height: 50px;
+    margin-left: 25px;
+    margin-right: 29px;
+} 
+
+th.tipo{
+    color:  rgb(152, 1, 129);
+    font-family: cursive;
+}
+
+table.type{
+    text-align: center;
+    margin-bottom: 2%;
+    margin-top: 2%;
+  margin-left: 40%;
+    font-size: 30px;
+}
+
+th.border{
+   margin-right: 39%;
+   font-family: cursive;
+   font-size: 69%;
+}
+
+p.aba{
+    font-family: cursive;
+    font-size: 35px;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(152, 1, 129);
+}
+
+p.ab{
+    font-family: braba  ;
+    font-size: 30px;
+    padding-bottom: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+    color: rgb(32, 4, 125);
+}
+
+img {
+    height: 345px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+table {
+    margin-top: 5%;
+   margin-left:10%;
+    margin-right: 10%;
+    margin-top: 10%;
+}
+
+thead{
+    margin-top: 10%;
+}
+
+img.icon{
+    height: 4%;
+    width: 4%;
+    padding-top: 1%;
+}
+
+table.table{
+   color: brown;
+}
+
+footer{
+    font-family: cursive;
+    background-color: black;
+    color: rgb(82, 82, 224);
+    font-size: 20px;
+    margin-top: 2%;
+    
+    
+}
